@@ -48,6 +48,12 @@ kaggle link: https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dat
 ## 📌 Conclusion
 This project demonstrates how machine learning can help detect fraudulent transactions and reduce financial risks.
 
+## 📊 Results
+- Accuracy: 95%  
+- Precision (Fraud Class): 2%  
+- Recall (Fraud Class): 94%  
+- F1-Score (Fraud Class): 4% 
+
 ## 👤 Author
 **Navya Goyal**
 
